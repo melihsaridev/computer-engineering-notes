@@ -1,3 +1,3 @@
-# 01 - Git & GitHub Ders Notları
+# Git & GitHub Notes
 
-BTK Akademi ve kişisel pratiklerimden edindiğim Git versiyon kontrol sistemi ve GitHub notları bu klasörde yer almaktadır.
+This directory contains comprehensive notes, command references, and best practices for Git version control system and GitHub workflows accumulated throughout my Computer Engineering studies and technical projects.
